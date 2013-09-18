@@ -3,3 +3,9 @@ glenn:
   last_name: "foltz"
   email: "glenn.foltz@gmail.com"
   profile_name: "gbfoltz1"
+
+jimmy:
+  first_name: "Jimmy"
+  last_name: "Johns"
+  email: "jimmyjohns@gmail.com"
+  profile_name: "jimmyjohn1"
